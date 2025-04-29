@@ -1,4 +1,4 @@
-<h1>Neurotrilha (SNC - UNIFESP 2025)<h1>
+<h1>Neurotrilha (SNC - UNIFESP 2025)</h1>h1>
 
 Esse jogo de tabuleiro e seus arquivos foram desenvolvidos sem fins lucrativo para serem livremente e gratuitamente distribuídos, sendo um material didático complementar às atividades desenvolvidas pela Universidade Federal de São Paulo - Escola Paulista de Medicina (UNIFESP/EPM) ao evento Semana Nacional do Cérebro 2025.
 
